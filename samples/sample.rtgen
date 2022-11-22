@@ -1,0 +1,7 @@
+LOAD samples/names.txt 
+SET NO_PER_T 3
+SET T_DESC samples/teams_desc.txt
+
+GENERATE -quiet
+
+PRINT samples/output.txt 

@@ -1,0 +1,58 @@
+============= Generated Teams ==============
+
+
+~~~~ Team 1 MEMBERS ~~~~
+1: Rotimi Bello
+2: Chizoba Onohinosen
+3: Titi Aderinsola
+
+~~~~ Team 1 DESC ~~~~
+This is team 1 description
+
+~~~~ Team 2 MEMBERS ~~~~
+1: Chinyere Sulaimon
+2: Chizoba Ehigiator
+3: Solomon Grandy
+
+~~~~ Team 2 DESC ~~~~
+This is team 2 description
+
+~~~~ Team 3 MEMBERS ~~~~
+1: Titi Aligbe
+2: Ben Ten
+3: Ifeanyichukwu Emmanuel
+
+~~~~ Team 3 DESC ~~~~
+
+
+~~~~ Team 4 MEMBERS ~~~~
+1: Chukwu Okunola
+2: Sunshine
+3: Cherechi Ajakaiye
+
+~~~~ Team 4 DESC ~~~~
+This is team 4 description
+
+~~~~ Team 5 MEMBERS ~~~~
+1: Titi Olufeyikemi
+2: Emeka Joshua
+3: Miracle
+
+~~~~ Team 5 DESC ~~~~
+
+
+~~~~ Team 6 MEMBERS ~~~~
+1: Adegoke Odunayo
+2: Bankole Afolabi
+3: Lankard Man
+
+~~~~ Team 6 DESC ~~~~
+
+
+~~~~ Team 7 MEMBERS ~~~~
+1: Tobiloba Latifat
+2: Juwon
+3: Jolayemi Sulaimon
+
+~~~~ Team 7 DESC ~~~~
+
